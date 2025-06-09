@@ -1,7 +1,7 @@
 ;(function(win) {
   win["trcb"] = {
     baseURL: "/e/",
-    apiURL: "http://localhost:4200",
+    apiURL: "https://sgp-ss-server-production.up.railway.app",
     onboardingURL: "https://www.turecibo.com.ar/s",
     adminURL: "https://admin.turecibo.com",
     eformsURL: "https://eforms.turecibo.com",
