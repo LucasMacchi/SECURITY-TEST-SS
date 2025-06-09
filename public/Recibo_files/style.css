@@ -1,0 +1,487 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?sgdml9');
+  src:  url('fonts/icomoon.eot?sgdml9#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?sgdml9') format('truetype'),
+    url('fonts/icomoon.woff?sgdml9') format('woff'),
+    url('fonts/icomoon.svg?sgdml9#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Question:before {
+  content: "\e972";
+  color: #2470a0;
+}
+.icon-Subtraction:before {
+  content: "\e971";
+  color: #2470a0;
+}
+.icon-Add:before {
+  content: "\e900";
+  color: #2470a0;
+}
+.icon-AddImage:before {
+  content: "\e901";
+  color: #2470a0;
+}
+.icon-arrowfiltro:before {
+  content: "\e902";
+  color: #6f6f6f;
+}
+.icon-AttachImage:before {
+  content: "\e903";
+  color: #2470a0;
+}
+.icon-Attachment:before {
+  content: "\e904";
+  color: #2470a0;
+}
+.icon-Attention-needed:before {
+  content: "\e905";
+  color: #2470a0;
+}
+.icon-BandejaWorkflow:before {
+  content: "\e906";
+  color: #2470a0;
+}
+.icon-Birthday:before {
+  content: "\e907";
+  color: #2470a0;
+}
+.icon-c:before {
+  content: "\e908";
+  color: #2470a0;
+}
+.icon-Calendar:before {
+  content: "\e909";
+  color: #2470a0;
+}
+.icon-CargaMasiva:before {
+  content: "\e90a";
+  color: #2470a0;
+}
+.icon-ChangeCompany:before {
+  content: "\e90b";
+  color: #2470a0;
+}
+.icon-checked .path1:before {
+  content: "\e90c";
+  color: rgb(58, 154, 163);
+}
+.icon-checked .path2:before {
+  content: "\e90d";
+  margin-left: -1.3330078125em;
+  color: rgb(43, 122, 156);
+}
+.icon-Close:before {
+  content: "\e90e";
+  color: #2470a0;
+}
+.icon-Company:before {
+  content: "\e90f";
+  color: #2470a0;
+}
+.icon-Config:before {
+  content: "\e910";
+  color: #2470a0;
+}
+.icon-ContactUs:before {
+  content: "\e911";
+  color: #2470a0;
+}
+.icon-Convenio:before {
+  content: "\e912";
+  color: #2470a0;
+}
+.icon-Count:before {
+  content: "\e913";
+  color: #2470a0;
+}
+.icon-Crop:before {
+  content: "\e914";
+  color: #2470a0;
+}
+.icon-Delayed:before {
+  content: "\e915";
+  color: #2470a0;
+}
+.icon-Delete:before {
+  content: "\e916";
+  color: #2470a0;
+}
+.icon-Details:before {
+  content: "\e917";
+  color: #2470a0;
+}
+.icon-Detect:before {
+  content: "\e918";
+  color: #2470a0;
+}
+.icon-Doc:before {
+  content: "\e919";
+  color: #2470a0;
+}
+.icon-DocDownload:before {
+  content: "\e91a";
+  color: #2470a0;
+}
+.icon-DoceForm:before {
+  content: "\e91b";
+  color: #2470a0;
+}
+.icon-DocNewVersion:before {
+  content: "\e91c";
+  color: #2470a0;
+}
+.icon-DocumentHR:before {
+  content: "\e91d";
+  color: #2470a0;
+}
+.icon-Documentos-Personales:before {
+  content: "\e91e";
+  color: #54caa6;
+}
+.icon-DocUpload:before {
+  content: "\e91f";
+  color: #2470a0;
+}
+.icon-Down:before {
+  content: "\e920";
+  color: #2470a0;
+}
+.icon-Download:before {
+  content: "\e921";
+  color: #2470a0;
+}
+.icon-DownloadDocument:before {
+  content: "\e922";
+  color: #2470a0;
+}
+.icon-DownloadLegajo:before {
+  content: "\e923";
+  color: #2470a0;
+}
+.icon-DownloadPDF:before {
+  content: "\e924";
+  color: #2470a0;
+}
+.icon-DragandDrop:before {
+  content: "\e925";
+  color: #2470a0;
+}
+.icon-Edit:before {
+  content: "\e926";
+  color: #2470a0;
+}
+.icon-EditCircle:before {
+  content: "\e927";
+  color: #2470a0;
+}
+.icon-eForm-1:before {
+  content: "\e928";
+  color: #2470a0;
+}
+.icon-eForm:before {
+  content: "\e929";
+  color: #2470a0;
+}
+.icon-Email:before {
+  content: "\e92a";
+  color: #2470a0;
+}
+.icon-Error:before {
+  content: "\e92b";
+  color: #2470a0;
+}
+.icon-Export:before {
+  content: "\e92c";
+  color: #2470a0;
+}
+.icon-FAQ:before {
+  content: "\e92d";
+  color: #2470a0;
+}
+.icon-Filters:before {
+  content: "\e92e";
+  color: #2470a0;
+}
+.icon-Fire:before {
+  content: "\e92f";
+  color: #2470a0;
+}
+.icon-flip:before {
+  content: "\e930";
+  color: #2470a0;
+}
+.icon-Gallery:before {
+  content: "\e931";
+  color: #2470a0;
+}
+.icon-History:before {
+  content: "\e932";
+  color: #2470a0;
+}
+.icon-Home:before {
+  content: "\e933";
+  color: #2470a0;
+}
+.icon-Info:before {
+  content: "\e934";
+  color: #2470a0;
+}
+.icon-Info1:before {
+  content: "\e935";
+  color: #2470a0;
+}
+.icon-Info2-1:before {
+  content: "\e936";
+  color: #2470a0;
+}
+.icon-Info2:before {
+  content: "\e937";
+  color: #2470a0;
+}
+.icon-Info3:before {
+  content: "\e938";
+  color: #2470a0;
+}
+.icon-Landing:before {
+  content: "\e939";
+  color: #2470a0;
+}
+.icon-LastLeft:before {
+  content: "\e93a";
+  color: #2470a0;
+}
+.icon-LastRight:before {
+  content: "\e93b";
+  color: #2470a0;
+}
+.icon-Left:before {
+  content: "\e93c";
+  color: #2470a0;
+}
+.icon-LeftChevron:before {
+  content: "\e93d";
+  color: #4f41a3;
+}
+.icon-Legajo:before {
+  content: "\e93e";
+  color: #2470a0;
+}
+.icon-Licencias:before {
+  content: "\e93f";
+  color: #2470a0;
+}
+.icon-LicMedica:before {
+  content: "\e940";
+  color: #2470a0;
+}
+.icon-Like:before {
+  content: "\e941";
+  color: #2470a0;
+}
+.icon-List:before {
+  content: "\e942";
+  color: #2470a0;
+}
+.icon-LogOut:before {
+  content: "\e943";
+  color: #2470a0;
+}
+.icon-MedicalLicence:before {
+  content: "\e944";
+  color: #2470a0;
+}
+.icon-Menu:before {
+  content: "\e945";
+  color: #2470a0;
+}
+.icon-MergeDoc:before {
+  content: "\e946";
+  color: #2470a0;
+}
+.icon-MoreOptions:before {
+  content: "\e947";
+  color: #2470a0;
+}
+.icon-NotOk:before {
+  content: "\e948";
+  color: #2470a0;
+}
+.icon-Ok:before {
+  content: "\e949";
+  color: #2470a0;
+}
+.icon-Onboarding:before {
+  content: "\e94a";
+  color: #2470a0;
+}
+.icon-Password:before {
+  content: "\e94b";
+  color: #2470a0;
+}
+.icon-PDF:before {
+  content: "\e94c";
+  color: #2470a0;
+}
+.icon-Person:before {
+  content: "\e94d";
+  color: #2470a0;
+}
+.icon-Photo:before {
+  content: "\e94e";
+  color: #2470a0;
+}
+.icon-Plane:before {
+  content: "\e94f";
+  color: #2470a0;
+}
+.icon-Plus:before {
+  content: "\e950";
+  color: #2470a0;
+}
+.icon-Print:before {
+  content: "\e951";
+  color: #2470a0;
+}
+.icon-PublicacionMasiva:before {
+  content: "\e952";
+  color: #2470a0;
+}
+.icon-ReAsign:before {
+  content: "\e953";
+  color: #2470a0;
+}
+.icon-Refresh:before {
+  content: "\e954";
+  color: #2470a0;
+}
+.icon-Reject:before {
+  content: "\e955";
+  color: #2470a0;
+}
+.icon-Report:before {
+  content: "\e956";
+  color: #2470a0;
+}
+.icon-ReSend:before {
+  content: "\e957";
+  color: #2470a0;
+}
+.icon-ResetPass:before {
+  content: "\e958";
+  color: #2470a0;
+}
+.icon-reTake:before {
+  content: "\e959";
+  color: #2470a0;
+}
+.icon-Revert:before {
+  content: "\e95a";
+  color: #2470a0;
+}
+.icon-Right:before {
+  content: "\e95b";
+  color: #2470a0;
+}
+.icon-RightChevron:before {
+  content: "\e95c";
+  color: #4f41a3;
+}
+.icon-Rotate-1:before {
+  content: "\e95d";
+  color: #2470a0;
+}
+.icon-Rotate:before {
+  content: "\e95e";
+  color: #2470a0;
+}
+.icon-Search:before {
+  content: "\e95f";
+  color: #2470a0;
+}
+.icon-Send:before {
+  content: "\e960";
+  color: #2470a0;
+}
+.icon-Share:before {
+  content: "\e961";
+  color: #2470a0;
+}
+.icon-Statics:before {
+  content: "\e962";
+  color: #2470a0;
+}
+.icon-Suspend:before {
+  content: "\e963";
+  color: #2470a0;
+}
+.icon-Takeoff:before {
+  content: "\e964";
+  color: #2470a0;
+}
+.icon-Task:before {
+  content: "\e965";
+  color: #2470a0;
+}
+.icon-tilde:before {
+  content: "\e966";
+  color: #2470a0;
+}
+.icon-ToDo:before {
+  content: "\e967";
+  color: #2470a0;
+}
+.icon-Trazabilidad2:before {
+  content: "\e968";
+  color: #2470a0;
+}
+.icon-unchecked:before {
+  content: "\e969";
+  color: #3a9aa3;
+}
+.icon-Unread:before {
+  content: "\e96a";
+  color: #2470a0;
+}
+.icon-Up:before {
+  content: "\e96b";
+  color: #2470a0;
+}
+.icon-UploadToCloud:before {
+  content: "\e96c";
+  color: #2470a0;
+}
+.icon-UserConfig:before {
+  content: "\e96d";
+  color: #2470a0;
+}
+.icon-Vacations:before {
+  content: "\e96e";
+  color: #2470a0;
+}
+.icon-Warning:before {
+  content: "\e96f";
+  color: #2470a0;
+}
+.icon-Work-Anniversary:before {
+  content: "\e970";
+  color: #2470a0;
+}
